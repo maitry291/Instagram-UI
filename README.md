@@ -10,8 +10,7 @@
 
 <a href="https://developer.android.com/studio">
   <img src="https://img.shields.io/badge/IDE-Android%20Studio-eaff00?style=flat&logo=android"> </a> 
-<a href="https://firebase.google.com">
-  <img src="https://img.shields.io/badge/Database-Firebase-54ff98?style=flat&logo=firebase"> </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction">
   <img src="https://img.shields.io/badge/Frontend-XML-ff9ce9?style=flat&logo=xaml"> </a> 
 <a href="https://kotlinlang.org/docs/home.html">
