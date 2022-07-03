@@ -22,12 +22,14 @@
 ### 🖼️ Screenshots
 
 <span>
+<img src="https://user-images.githubusercontent.com/83761752/177038007-96fbc089-a076-4004-8013-0646f26fd871.gif" width="250" height="500">&nbsp;
+<img src="https://user-images.githubusercontent.com/83761752/177032872-32900f32-52b4-496d-b37e-233706ecd2ef.jpg" width="250" height="500">&nbsp;
+
+</span>
+
+<span>
 
 <img src="https://user-images.githubusercontent.com/83761752/177032859-c82eed64-5d67-42b5-bbcc-73464f5df255.jpg" width="250" height="500">&nbsp;
 <img src="https://user-images.githubusercontent.com/83761752/177032875-9ef04668-182b-42fa-b19a-ed7c31994342.jpg" width="250" height="500">&nbsp;
 </span>
 
-<span>
-<img src="https://user-images.githubusercontent.com/83761752/177032872-32900f32-52b4-496d-b37e-233706ecd2ef.jpg" width="250" height="500">&nbsp;
-
-</span>
