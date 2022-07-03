@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="new_post">New Post</string>
+    <string name="activity">Activity</string>
+    <string name="my_profile">My Profile</string>
+    <string name="choco_holic">_choco.holic._</string>
+    <string name="maitry">maitry</string>
+    <string name="edit_profile">Edit Profile</string>
+</resources>

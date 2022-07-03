@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/drawable/editbutton.xml" value="0.16023166023166024" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/drawable/editstory.xml" value="0.16023166023166024" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.148828125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/drawable/navigation_colour.xml" value="0.148828125" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/drawable/new_post.xml" value="0.162109375" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/drawable/new_story_border.xml" value="0.16023166023166024" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/drawable/story_border.xml" value="0.18201754385964913" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_intro_screen.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_activity.xml" value="0.16842105263157894" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_add.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_search.xml" value="0.16842105263157894" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/layout/profile_fragment.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/menu-v26/bottom_nav_menu.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/menu/bottom_nav_menu.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Instagram/app/src/main/res/menu/post_layout.xml" value="0.16842105263157894" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16666666666666666" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
